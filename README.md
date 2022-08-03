@@ -15,4 +15,4 @@ The things that I learned and apply during completing this project is:
 
 ![Website View](/src/images/projectView1.PNG)
 
-![Website View](/advice-generator/src/images/projectView2.PNG)
+![Website View](/src/images/projectView2.PNG)
